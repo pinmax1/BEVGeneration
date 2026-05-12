@@ -15,7 +15,7 @@ Given 4 synchronized surround-view camera images, the goal is to predict a BEV o
 
 ---
 
-## 🧠 Models and Experiments
+## Models and Experiments
 
 Several architectures were implemented and evaluated:
 
